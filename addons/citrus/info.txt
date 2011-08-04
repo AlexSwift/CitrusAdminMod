@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"			"Citrus (Server Management)"
+	"version"		"1.07"
+	"author_name"	"Conna"
+	"author_email"	"connacook@gmail.com"
+	"author_url"	"http://connacook.com"
+	"info"			"Citrus (Server Management)"
+}
