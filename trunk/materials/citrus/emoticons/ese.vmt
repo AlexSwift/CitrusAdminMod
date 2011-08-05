@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "citrus/emoticons/ese"
+    "$ignorez"	   "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nomip"       "1"
+	"$nolod"       "1"
+	"$width"       "27"
+	"$height"      "21"
+}
