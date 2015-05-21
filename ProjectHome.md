@@ -1,0 +1,1 @@
+An administration mod or framework for the popular game called "Garry's Mod". Originally made by Conna 'Cook' Wiles, updated by 'Pollyspud', and further updated by Andrew 'AndrewPH' Horn.
